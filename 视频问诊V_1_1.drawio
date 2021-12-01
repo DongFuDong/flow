@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T10:13:43.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="0QlopGCEApRrPScEbUQ6" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T11:37:19.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="d6d3bnh5ult6uYrrvVst" version="15.8.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="920" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="5213" dy="3120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
         <mxCell id="eHdf7R_SHur1p_ty0o2o-26" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FF3333;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="eHdf7R_SHur1p_ty0o2o-22" target="eHdf7R_SHur1p_ty0o2o-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="医生端（企业微信小程序）" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="医生端（企业微信小程序）" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;flipV=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="260" width="2460" height="150" as="geometry" />
         </mxCell>
         <mxCell id="eHdf7R_SHur1p_ty0o2o-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
